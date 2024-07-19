@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Grammar
   * [Treesitter Grammar - (official)](https://github.com/HigherOrderCO/tree-sitter-bend.git)
   * [Treesitter Grammar](https://github.com/LaBatata101/tree-sitter-bend.git)
+  * [Syntax highlighter in javascript](https://github.com/highlightjs/highlightjs-bend)
 
 ## Tools
   * [Alternative Import Tool](https://github.com/FayCarsons/Wiggle) - Minimal dependency manager for the Bend language
